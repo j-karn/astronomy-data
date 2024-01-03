@@ -18,7 +18,7 @@ This repository captures the assignments I did as part of the 6-week Data Driven
     <li>Write a function to cross match between the two catalogues and output the matched objects that are within predefined maximum distance</li>
     <b>Tools & Libraries</b> - requests, numpy
 <br></br>
-  <b>Week 3: Querying database using SQL to answer questions around Exoplanets</b> - <a href="https://github.com/j-karn/astronomy-data/blob/main/Week_3_Querying_database_using_SQL_to_answer_questions_around_Exoplanets.ipynb">Link</a></br>
+  <b>Week 3: Querying database using SQL to answer questions around Exoplanets</b> - <a target="_blank" rel="noopener" href="https://github.com/j-karn/astronomy-data/blob/main/Week_3_Querying_database_using_SQL_to_answer_questions_around_Exoplanets.ipynb">Link</a></br>
    <b>Task:</b>The goal this week is to use SQL syntax and command to find out answers regarding Exoplants.
   <br></br>
     <li>Aggregation - ```COUNT, MAX, MIN, SUM```</li>
