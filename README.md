@@ -20,24 +20,13 @@ This repository captures the assignments I did as part of the 6-week Data Driven
 <br></br>
   <b>Week 3: Querying database using SQL to answer questions around Exoplanets</b></br>
    <b>Task:</b>The goal this week is to use SQL syntax and command to find out answers regarding Exoplants.
-
-
-   <br>1 Write an SQL query to find the radius and temperature of the stars in the Star table that are larger than our sun.
-   <br>2 Write a range query which returns the kepler_id and the t_eff attributes of all those stars in the Star table whose temperature lies between 5000 and 6000 Kelvin (inclusive).
-   <br>3 Write a query to find the kepler_name and radius of each planet in the Planet table which is a confirmed exoplanet, meaning that their kepler_name is not NULL, or, equivalently, whose status is 'CONFIRMED'.
-
-Restrict your results to those planets whose radius lies between one and three earth radii, and remember that the radius of the planets is relative to the earth radius.
-<br>4 Find min, max, avg, stdev radii
-<br>5 Find out how many planets in the Planet database are in a multi-planet system. Planets sharing the same star will have the same kepler_id, but different koi_name values. Your query should return a table in which each row contains the kepler_id of the star and the number of planets orbiting that star (i.e. that share this kepler_id). Limit your results to counts above one and order the rows in descending order based on the number of planets.
-6 Write a query that returns the radius of each star and planet pair whose radii have a ratio greater than the Sun-to-Earth radius ratio. Order the results in descending order based on the stellar radii. Use sun_radius and planet_radius as attribute aliases for the star and planet radii.
-7 Write a query which counts the number of planets in each solar system where the corresponding stars are larger than our sun (i.e. their radius is larger than 1).</br>
   <br></br>
     <li>Aggregation - ```COUNT, MAX, MIN, SUM```</li>
     <li>```WHERE``` clause + ```HAVING```</li>
     <li>```IS NULL, IS NOT NULL```</li>
     <li>```JOIN.. ON + JOIN.. USING```</li>
     <li>```INNER + OUTER JOIN```</li>
-<br></br>
+
  <b>Week 4: Managing database</b></br>
    <b>Task:</b> Continuing from last week, this week tasks involve using ```CREATE, INSERT, DELETE,``` and ```UPDATE``` command to manipulate a table's content.
   <br></br>
