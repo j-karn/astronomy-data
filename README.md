@@ -1,7 +1,7 @@
 # astronomy-data
 This repository captures the assignments I did as part of the 6-week Data Driven Astronomy course using Python + SQL offered on Coursera by the University of Sydney.<br>
 </br>
-  <b>Week 1: Understanding and detecting Pulsars</b></br>
+  <b><u>Week 1</u>: Understanding and detecting Pulsars</b></br>
   <b>Task:</b> As pulsars give off very faint signals, astronomers use image stacking technique in order to detect the underlying signals. To do so, they find the mean brightness at each pixel of the images. This approach averages out the noise and enhances a bright spot revealing the potential pulsars.
   <br>
     <li>Uploading, opening, and cleaning csv and <a href="https://en.wikipedia.org/wiki/FITS">FITS</a> files</li>
@@ -26,7 +26,7 @@ This repository captures the assignments I did as part of the 6-week Data Driven
     <li>```IS NULL, IS NOT NULL```</li>
     <li>```JOIN.. ON + JOIN.. USING```</li>
     <li>```INNER + OUTER JOIN```</li>
-
+<br></br>
  <b>Week 4: Managing database</b> - <a href="https://github.com/j-karn/astronomy-data/blob/main/Week_4_Managing_database.ipynb" target="_blank" rel="noopener noreferrer">Link</a></br>
    <b>Task:</b> Continuing from last week, this week tasks involve using ```CREATE, INSERT, DELETE,``` and ```UPDATE``` command to manipulate a table's content.
   <br></br>
