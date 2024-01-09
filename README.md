@@ -2,7 +2,7 @@
 This repository captures the assignments I did as part of the 6-week Data Driven Astronomy course using Python + SQL offered on Coursera by the University of Sydney.<br>
 </br>
   <b><u>Week 1</u>: Understanding and detecting Pulsars</b></br>
-  <b>Task:</b> As pulsars give off very faint signals, astronomers use image stacking technique in order to detect the underlying signals. To do so, they find the mean brightness at each pixel of the images. This approach averages out the noise and enhances a bright spot revealing the potential pulsars.
+  <b>Context:</b> As pulsars give off very faint signals, astronomers use image stacking technique in order to detect the underlying signals. To do so, they find the mean brightness at each pixel of the images. This approach averages out the noise and enhances a bright spot revealing the potential pulsars.
   <br>
     <li>Upload, open, and clean csv and <a href="https://en.wikipedia.org/wiki/FITS">FITS</a> files</li>
     <li>Work with lists and arrays
@@ -10,13 +10,13 @@ This repository captures the assignments I did as part of the 6-week Data Driven
     <b>Tools & Libraries</b> - pandas, numpy, astropy.io, matplotlib
 <br></br>
   <b>Week 2: Cross matching between different astronomical catalogues</b></br>
-   <b>Context:</b> When studying galaxies, it is crucial to review different parts of the electromagnetic spectrum to comprehensively understand the structure and composition of the galaxies. This means astronomers compare data about those objects from different telescopes at different wavelengths. This requires positional cross-matching to find the closest counterpart within a given radius on the sky.
-   <br></br><b>Task:</b> Crossmatches between a radio survey catalogue (BSS) and an optical survey (SuperCOSMOS) to see how many of the bright radio sources in the BSS catalogue have a counterpart in the SuperCOSMOS.
+   <b>Context:</b> When studying galaxies, it is crucial to review different parts of the electromagnetic spectrum to comprehensively understand the structure and composition of the galaxies. This means astronomers compare data of those objects from different telescopes at different wavelengths which requires positional crossmatching to find the closest counterpart within a given radius on the sky.
+   <br></br><b>Task:</b> Crossmatch between a radio survey catalogue (BSS) and an optical survey (SuperCOSMOS) to see how many of the bright radio sources in the BSS catalogue have a counterpart in the SuperCOSMOS.
   <br></br>
     <li>Import and work with csv and dat files</li>
     <li>Convert celestial coordinates to decimal degrees/ radian and calculate the angular difference between the objects</li>
     <li>Write a function to cross match between the two catalogues and output the matched objects that are within predefined maximum distance</li>
-    <b>Tools & Libraries</b> - requests, numpy
+    <b>Tools & Libraries</b> - numpy, operator
 <br></br>
   <b>Week 3: Querying database using SQL to answer questions around Exoplanets</b> - <a href="https://github.com/j-karn/astronomy-data/blob/main/Week_3_Querying_database_using_SQL_to_answer_questions_around_Exoplanets.ipynb" target="_blank" rel="noopener noreferrer">Link</a></br>
    <b>Task:</b>The goal this week is to use SQL syntax and command to find out answers regarding Exoplants.
