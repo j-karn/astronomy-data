@@ -28,10 +28,9 @@ This repository captures the assignments I did as part of the 6-week Data Driven
 <br></br>
  <b>Week 4: Managing database</b> - <a href="https://github.com/j-karn/astronomy-data/blob/main/Week_4_Managing_database.ipynb" target="_blank" rel="noopener noreferrer">Link</a></br>
    <b>Task:</b> Continuing from last week, this week tasks involve using ```CREATE, INSERT, DELETE,``` and ```UPDATE``` command to manipulate a table's content.
-    <li>Import and work with csv and dat files</li>
-    <li>Convert celestial coordinates to decimal degrees/ radian and calculating the angular difference between the objects</li>
-    <li>Write a function to cross match between the two catalogues and output the matched objects that are within predefined maximum distance</li>
-    <b>Tools & Libraries</b> - requests, numpy
+    <li>command</li>
+    <li>command</li>
+    <li>command</li>
 <br></br>
   <b>Week 5: Using decision trees to predict the redshift of galaxies from the Sloan Digital Sky Survey</b> - <a href="https://github.com/j-karn/astronomy-data/blob/main/Week_5_Predicting_the_redshifts.ipynb" target="_blank" rel="noopener noreferrer">Link</a></br></br>
    <b>Context:</b> To calculate the redshift of a distant galaxy, the most accurate method is to observe the optical emission lines and measure the shift in wavelength. However, this process can be time consuming and thus infeasible for large samples, not to mention the lack of spectroscopic observations on many galaxies.
