@@ -19,7 +19,7 @@ This repository captures the assignments I did as part of the 6-week Data Driven
     <b>Tools & Libraries</b> - numpy
 <br></br>
   <b>Week 3: Querying database using SQL to answer questions around Exoplanets</b> - <a href="https://github.com/j-karn/astronomy-data/blob/main/Week_3_Querying_database_using_SQL_to_answer_questions_around_Exoplanets.ipynb" target="_blank" rel="noopener noreferrer">Link</a></br>
-   <b>Task:</b>The goal this week is to use SQL syntax and command to find out answers regarding Exoplants.
+   <b>Task:</b>The goal this week is to use SQL syntax and command to find out answers regarding Exoplanets.
     <li>Aggregation - ```COUNT, MAX, MIN, SUM```</li>
     <li>```WHERE``` clause + ```HAVING```</li>
     <li>```IS NULL, IS NOT NULL```</li>
