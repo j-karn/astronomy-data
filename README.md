@@ -2,7 +2,7 @@
 This repository captures the assignments I did as part of the Data Driven Astronomy course using Python + SQL offered on Coursera by the University of Sydney.<br>
 </br>
   <b><u>Week 1</u>: Understanding and detecting Pulsars</b> - <a href="https://nbviewer.org/github/j-karn/astronomy-data/blob/main/Week_1_Understanding_and_detecting_Pulsars.ipynb" target="_blank" rel="noopener noreferrer">nbviewer link</a></br>
-  <b>Context:</b> As pulsars give off very faint signals, astronomers use image stacking technique in order to detect the underlying signals. To do so, they find the mean brightness at each pixel of the images. This approach averages out the noise and enhances a bright spot revealing the potential pulsars.
+  <b>Context:</b> As pulsars give off very faint signals, astronomers use image stacking technique to detect the underlying signals. To do so, they find the mean brightness at each pixel of the images. This approach averages out the noise and enhances a bright spot revealing the potential pulsars.
   <br>
     <li>Upload, open, and clean csv and <a href="https://en.wikipedia.org/wiki/FITS">FITS</a> files</li>
     <li>Work with lists and arrays
